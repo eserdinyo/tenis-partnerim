@@ -1,0 +1,53 @@
+<template>
+  <nuxt-link
+    :to="`/player/${player.slug}`"
+    class="
+      card
+      transition
+      text-center
+      hover:shadow-xl
+      border border-gray-900
+      cursor-pointer
+    "
+  >
+    <figure class="px-10 pt-10">
+      <img
+        :src="player.image"
+        class="rounded-full h-28 w-28 object-cover mx-auto"
+      />
+    </figure>
+    <div class="card-body flex flex-col">
+      <h3 class="card-title mb-2">{{ player.name }}, {{ player.age }} yaş</h3>
+      <div class="flex items-center justify-center mb-2">
+        <LocationMarkerIcon class="h-4 w-4 mr-1" />
+        <h4 class="text-sm">{{ player.district }}, {{ player.city }}</h4>
+      </div>
+      <h4 class="text-sm mb-8 font-medium">Seviye: ITN {{ player.itn }}</h4>
+      <p v-if="player.description" class="mb-8">
+        {{ player.description.substr(0, 120) }}...
+      </p>
+      <div class="justify-center card-actions mt-auto">
+        <nuxt-link :to="`/player/${player.slug}`" class="btn btn-outline"
+          >Daha Fazla...</nuxt-link
+        >
+      </div>
+    </div>
+  </nuxt-link>
+</template>
+
+<script>
+import { LocationMarkerIcon } from '@vue-hero-icons/outline'
+export default {
+  components: {
+    LocationMarkerIcon,
+  },
+  props: {
+    player: {
+      type: Object,
+      required: true,
+    },
+  },
+}
+</script>
+
+<style lang="scss" scoped></style>
