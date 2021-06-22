@@ -20,7 +20,7 @@
       <a
         href="https://forms.gle/3vPEF7kWpxQciBgz9"
         target="_blank"
-        class="btn btn-outline btn-accent"
+        class="btn btn-active"
         >Kayıt Ol</a
       >
     </div>
