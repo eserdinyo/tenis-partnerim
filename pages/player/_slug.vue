@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-4 mb-8">
     <Loader v-if="$fetchState.pending" />
     <div v-else>
       <div class="flex items-center py-8">

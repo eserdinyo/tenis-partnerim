@@ -1,11 +1,11 @@
 <template>
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto">
     <div
       class="
         flex
         items-center
         justify-between
-        py-4
+        p-4
         border-b border-gray-500
         mb-8
       "
