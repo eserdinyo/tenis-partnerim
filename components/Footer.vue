@@ -1,6 +1,6 @@
 <template>
   <footer class="container mx-auto p-4 border-t border-gray-500 mt-auto">
-    Telegram grubumuza katılmaz için
+    Telegram grubumuza katılmak için
     <a
       target="_blank"
       class="text-blue-500 font-medium underline"
