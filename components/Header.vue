@@ -10,7 +10,13 @@
         mb-8
       "
     >
-      <nuxt-link class="text-4xl" to="/">Tenis Partnerim</nuxt-link>
+      <nuxt-link class="flex items-center" to="/">
+        <img src="@/assets/logo.png" class="mr-2 h-14" alt="" />
+        <span class="text-xl font-medium text-gray-900"
+          >Tenis <br />
+          Partnerim</span
+        >
+      </nuxt-link>
       <a
         href="https://forms.gle/3vPEF7kWpxQciBgz9"
         target="_blank"
