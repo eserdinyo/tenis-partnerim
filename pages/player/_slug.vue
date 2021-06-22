@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4">
-    <div v-if="$fetchState.pending">loading</div>
+    <Loader v-if="$fetchState.pending" />
     <div v-else>
       <div class="flex items-center py-8">
         <img

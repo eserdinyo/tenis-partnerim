@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4">
-    <div v-if="$fetchState.pending">loading</div>
+    <Loader v-if="$fetchState.pending" />
     <div
       v-else
       class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-6 mb-8"

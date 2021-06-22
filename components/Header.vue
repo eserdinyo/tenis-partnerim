@@ -10,7 +10,7 @@
         mb-8
       "
     >
-      <nuxt-link class="text-5xl" to="/">Tenis Partnerim</nuxt-link>
+      <nuxt-link class="text-4xl" to="/">Tenis Partnerim</nuxt-link>
       <a
         href="https://forms.gle/3vPEF7kWpxQciBgz9"
         target="_blank"
