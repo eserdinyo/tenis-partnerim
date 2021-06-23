@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Yoğurtçu Parkı Tenis Kortu",
+    "district": "Kadıköy",
+    "city": "İstanbul",
+    "price": "Ücretsiz",
+    "slug": "yoğurtçu-parkı-tenis-kortu",
+    "cover": "https://fastly.4sqi.net/img/general/width960/47925471_XUPGId8wYnKh04IB1_K45dZBtOsTn778ROnGIfFx5LQ.jpg",
+    "lat": 40.9833613,
+    "lng": 29.0333324,
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum.",
+    "images": [
+      "https://www.regnumhotels.com/media/a41nrzwa/tennis_courts_th.jpg",
+      "https://tigerturf.com/in/wp-content/uploads/2019/11/How-to-build-a-tennis-court.jpg"
+    ]
+  },
+  {
+    "name": "Yoğurtçu Parkı Tenis Kortu",
+    "district": "Kadıköy",
+    "city": "İstanbul",
+    "price": "Ücretsiz",
+    "slug": "yoğurtçu-parkı-tenis-kortu-2",
+    "cover": "https://fastly.4sqi.net/img/general/width960/47925471_XUPGId8wYnKh04IB1_K45dZBtOsTn778ROnGIfFx5LQ.jpg",
+    "lat": 40.9833613,
+    "lng": 29.0333324,
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum.",
+    "images": [
+      "https://www.regnumhotels.com/media/a41nrzwa/tennis_courts_th.jpg",
+      "https://tigerturf.com/in/wp-content/uploads/2019/11/How-to-build-a-tennis-court.jpg"
+    ]
+  }
+]

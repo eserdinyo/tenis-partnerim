@@ -1,6 +1,6 @@
 <template>
   <nuxt-link
-    to="/"
+    :to="`/courts/${court.slug}`"
     class="
       card
       transition
@@ -12,16 +12,14 @@
     "
   >
     <figure>
-      <img
-        src="https://i1.wp.com/www.okuruz.net/wp-content/uploads/2018/03/antalya-tenis-kortlar%C4%B1.jpg"
-      />
+      <img :src="court.cover" class="h-60 object-cover" />
     </figure>
     <div class="justify-end card-body p-0">
       <div class="bg-gray-900 py-2 pl-5 bg-opacity-70">
-        <h2 class="card-title mb-1">Moda Sahil Tenis Kortu</h2>
+        <h2 class="card-title mb-1">{{ court.name }}</h2>
         <div class="flex items-center mb-0">
           <LocationMarkerIcon class="h-4 w-4 mr-1" />
-          <h4 class="text-sm">Kadiköy, İstanbul</h4>
+          <h4 class="text-sm">{{ court.district }}, {{ court.city }}</h4>
         </div>
       </div>
     </div>
@@ -33,6 +31,12 @@ import { LocationMarkerIcon } from '@vue-hero-icons/outline'
 export default {
   components: {
     LocationMarkerIcon,
+  },
+  props: {
+    court: {
+      type: Object,
+      required: true,
+    },
   },
 }
 </script>
