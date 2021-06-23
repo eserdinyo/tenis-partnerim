@@ -7,7 +7,7 @@
         Telegram grubumuza katılmak için
         <a
           target="_blank"
-          class="text-blue-500 font-medium underline"
+          class="link"
           href="https://t.me/joinchat/NVZKfxazkcsXCL9nvFPgtA"
           >tıklayın.</a
         >
