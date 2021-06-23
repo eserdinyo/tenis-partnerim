@@ -5,11 +5,27 @@
       <h1 class="text-3xl md:text-6xl mb-8">
         {{ court.name }}
       </h1>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div class="">
           <CourtSlider :images="court.images" />
         </div>
-        <div>info</div>
+        <div class="font-semibold">Fiyat: {{ court.price }}</div>
+      </div>
+      <div>
+        <h2
+          class="text-3xl border-b border-gray-500 mb-4 mt-8 pb-2 font-medium"
+        >
+          Yorumlar
+        </h2>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div
+            v-for="(comment, idx) in court.comments"
+            :key="idx"
+            class="p-4 border rounded-md shadow-sm"
+          >
+            {{ comment }}
+          </div>
+        </div>
       </div>
       <div class="mt-8">
         <GMap
