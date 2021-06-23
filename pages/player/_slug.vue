@@ -29,7 +29,7 @@
         <div>
           <a
             v-if="player.instagram"
-            class="flex items-center mb-2"
+            class="inline-flex items-center mb-2"
             :href="`https://www.instagram.com/${player.instagram}/`"
             target="_blank"
             title="Instagram"
