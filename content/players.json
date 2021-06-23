@@ -1,12 +1,25 @@
 [
   {
+    "name": "Mehmet Okan",
+    "age": 28,
+    "district": "Pursaklar",
+    "city": "Ankara",
+    "itn": 10,
+    "slug": "m.okan",
+    "instagram": "menoktaokan",
+    "telegram": "",
+    "howManyYears": 1,
+    "image": "https://i.hizliresim.com/928s8if.jpeg",
+    "description": "Tozlanan tenis raketmi gün yüzüne çıkarmak istiyorum."
+  },
+  {
     "name": "İlayda",
     "age": 23,
     "district": "Manavgat",
     "city": "Antalya",
     "itn": 9,
     "slug": "sarkancilayda",
-    "instagram": "https://www.instagram.com/sarkancilayda/",
+    "instagram": "sarkancilayda",
     "telegram": "",
     "howManyYears": 1,
     "image": "https://i.hizliresim.com/2qkpx8y.png",
@@ -21,7 +34,7 @@
     "slug": "muhammet",
     "image": "https://i.hizliresim.com/gzw5fg9.png",
     "description": "Selamlar. Muhammet ben. Tenis oynamaya üniversitede ev arkadaşımla başladım. 2 yıl kadar üniversitede oynadım. Daha sonra mezun olduktan sonra İstanbulda partner bulamamadığım için ara ara çevremdekilere öğretip oynamaya çalıştım :) Yakın seviyede arkadaşlarla tanışıp oynamayı isterim.",
-    "instagram": "https://www.instagram.com/eserdinyo/",
+    "instagram": "eserdinyo",
     "telegram": "eserdinyo",
     "howManyYears": 2
   },
@@ -34,7 +47,7 @@
     "slug": "HsueyinAcikbas",
     "image": "https://i.hizliresim.com/qvng76h.jpg",
     "description": "Tenise yeni başladım. Birlikte oynacak arkadaş arıyorum.",
-    "instagram": "https://www.instagram.com/huseyin_acikbas/",
+    "instagram": "huseyin_acikbas",
     "telegram": "huseyin_acikbas",
     "howManyYears": 0
   },
@@ -45,7 +58,7 @@
     "city": "Samsun",
     "itn": 6,
     "slug": "kadir",
-    "instagram": "https://www.instagram.com/saspegas/",
+    "instagram": "saspegas",
     "telegram": "kadirbay",
     "howManyYears": 2,
     "image": "https://i.hizliresim.com/pdpfmwv.png",
