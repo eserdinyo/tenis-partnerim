@@ -4,6 +4,7 @@
     class="
       card
       transition
+      duration-300
       image-full
       hover:shadow-xl
       transform
