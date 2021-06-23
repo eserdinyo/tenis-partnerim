@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "@splidejs/vue-splide": "^0.3.5",
     "@vue-hero-icons/outline": "^1.7.2",
     "core-js": "^3.9.1",
     "daisyui": "^1.4.0",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "nuxt-gmaps": "^1.2.10"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.0",

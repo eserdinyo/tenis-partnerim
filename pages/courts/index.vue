@@ -1,6 +1,8 @@
 <template>
   <div class="container mx-auto px-4">
+    <Loader v-if="$fetchState.pending" />
     <div
+      v-else
       class="
         grid grid-cols-1
         md:grid-cols-2
@@ -10,13 +12,23 @@
         mb-8
       "
     >
-      <Court v-for="n in 8" :key="n" />
+      <Court v-for="court in courts" :key="court.slug" :court="court" />
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+  data() {
+    return {
+      courts: [],
+    }
+  },
+  async fetch() {
+    const courts = await this.$content('courts').fetch()
+    this.courts = courts
+  },
+}
 </script>
 
 <style lang="scss" scoped></style>

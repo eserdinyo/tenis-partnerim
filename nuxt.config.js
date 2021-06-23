@@ -20,7 +20,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: [{ src: '~/plugins/vue-splide', ssr: false }],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -37,6 +37,12 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    [
+      'nuxt-gmaps',
+      {
+        key: 'AIzaSyCThJR_V15aWcwYVlvkeSXk0bxFiRfXasg',
+      },
+    ],
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content

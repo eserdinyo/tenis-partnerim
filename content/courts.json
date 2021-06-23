@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Yoğurtçu Parkı Tenis Kortu",
+    "district": "Kadıköy",
+    "city": "İstanbul",
+    "price": "Ücretsiz",
+    "slug": "yoğurtçu-parkı-tenis-kortu",
+    "cover": "https://fastly.4sqi.net/img/general/width960/47925471_XUPGId8wYnKh04IB1_K45dZBtOsTn778ROnGIfFx5LQ.jpg",
+    "lat": 40.9833613,
+    "lng": 29.0333324,
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum.",
+    "images": [
+      "https://www.regnumhotels.com/media/a41nrzwa/tennis_courts_th.jpg",
+      "https://tigerturf.com/in/wp-content/uploads/2019/11/How-to-build-a-tennis-court.jpg"
+    ],
+    "comments": [
+      "Kadıköy Moda gibi şehrin merkezinde böyle bir tesisi hem de ücretsiz bulmak gerçekten mutluluk verici. Bir de yaşlı çeteleri sürekli işgal etmiyor olsa harika olacak.",
+      "Tenis oynamak için güzel bir yer, ulaşımda kolay yerde güzel.",
+      "Tenis kortu çok güzel. Ama  oturup izleyenler çok pis bırakıyorlar."
+    ]
+  },
+  {
+    "name": "Pendik Çamlık Spor Tesisi",
+    "district": "Pendik",
+    "city": "İstanbul",
+    "price": "20 TL",
+    "slug": "pendik-camlik-spor-tesisi",
+    "cover": "https://www.istanbulsporenvanteri.com/uploads/resim/7161-1/bykl5zmq.d1w.JPG",
+    "lat": 40.928682,
+    "lng": 29.281198,
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum.",
+    "images": [
+      "https://spor.istanbul/wp-content/uploads/2020/06/pendik-camlik-spor-tesisi-10.jpg",
+      "https://spor.istanbul/wp-content/uploads/2020/06/pendik-camlik-spor-tesisi.jpg"
+    ],
+    "comments": [
+      "Güzel bir yer. Tenis kortlarından ikisinin sahası biraz yamuk. Oyunu etkileyecek seviyede değil. Bazı kortların üstü kışın yağmur için kapatılıyor. Ücreti, özel yerlere göre daha uygun. Sakin bir yer.",
+      "Tenis sahası güzel ve uygun fiyatlı"
+    ]
+  }
+]
