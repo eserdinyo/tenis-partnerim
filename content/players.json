@@ -1,5 +1,18 @@
 [
   {
+    "name": "İlayda",
+    "age": 23,
+    "district": "Manavgat",
+    "city": "Antalya",
+    "itn": 9,
+    "slug": "sarkancilayda",
+    "instagram": "https://www.instagram.com/sarkancilayda/",
+    "telegram": "",
+    "howManyYears": 1,
+    "image": "https://i.hizliresim.com/2qkpx8y.png",
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum."
+  },
+  {
     "name": "Muhammet",
     "age": 26,
     "district": "Sultanbeyli",
@@ -26,23 +39,10 @@
     "howManyYears": 0
   },
   {
-    "name": "Serena Williams",
-    "age": 30,
-    "district": "Kartal",
-    "city": "İstanbul",
-    "itn": 6,
-    "slug": "atinux-1",
-    "instagram": "https://www.instagram.com/eserdinyo/",
-    "telegram": "eserdinyo",
-    "howManyYears": 2,
-    "image": "http://biodata-profil.com/wp-content/uploads/2018/05/Rafael-Nadal.jpg",
-    "description": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış,"
-  },
-  {
     "name": "Alexander Zverev",
     "age": 22,
     "district": "Üsküdar",
-    "city": "İstanbul",
+    "city": "İzmir",
     "itn": 8,
     "slug": "atinux-2",
     "instagram": "https://www.instagram.com/eserdinyo/",
