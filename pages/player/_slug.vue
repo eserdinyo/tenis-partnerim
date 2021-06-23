@@ -26,14 +26,27 @@
       </div>
       <div>
         <h3 class="font-medium mb-2">Buradan Ulaşabilirsiniz</h3>
-        <div class="flex items-center space-x-2">
-          <a :href="player.instagram" target="_blank">
-            <IconInstagram class="h-4 transition transform hover:scale-125" />
+        <div>
+          <a
+            v-if="player.instagram"
+            class="flex items-center mb-2"
+            :href="`https://www.instagram.com/${player.instagram}/`"
+            target="_blank"
+            title="Instagram"
+          >
+            <IconInstagram
+              class="h-4 transition transform hover:scale-125 mr-1"
+            />
+            <span class="font-medium">/{{ player.instagram }}</span>
           </a>
-          <div class="flex items-center">
+          <div
+            v-if="player.telegram"
+            class="flex items-center"
+            title="Telegram"
+          >
             <IconTelegram
               class="h-4 transition transform hover:scale-125"
-            /><span class="font-medium">/@{{ player.telegram }}</span>
+            /><span class="font-medium">/{{ player.telegram }}</span>
           </div>
         </div>
       </div>
