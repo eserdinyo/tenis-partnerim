@@ -3,6 +3,7 @@
     "name": "Yoğurtçu Parkı Tenis Kortu",
     "district": "Kadıköy",
     "city": "İstanbul",
+    "citySlug": "istanbul",
     "price": "Ücretsiz",
     "slug": "yoğurtçu-parkı-tenis-kortu",
     "phone": "02133923212",
@@ -22,6 +23,7 @@
     "name": "Pendik Çamlık Spor Tesisi",
     "district": "Pendik",
     "city": "İstanbul",
+    "citySlug": "istanbul",
     "price": "20 TL",
     "slug": "pendik-camlik-spor-tesisi",
     "cover": "https://www.istanbulsporenvanteri.com/uploads/resim/7161-1/bykl5zmq.d1w.JPG",
@@ -40,8 +42,31 @@
     "name": "Taksim Tenis Kortları",
     "district": "Şişli",
     "city": "İstanbul",
+    "citySlug": "istanbul",
     "price": "Bilgi almak için arayınız.",
     "slug": "taksim-tenis-kortlari",
+    "phone": "0532 257 84 95",
+    "cover": "http://www.taksimtenis.com/images/DSC02380-small-46.jpg",
+    "adress": "https://goo.gl/maps/9YPrFUTLwvhW4mpK8",
+    "images": [
+      "http://www.taksimtenis.com/images/DSC02380-small-46.jpg",
+      "https://fastly.4sqi.net/img/general/600x600/48030957_pGyhYnU9LRO9w4EctavfQ6wKOszFAFY3uNDpiD-L1pY.jpg",
+      "http://www.taksimtenis.com/images/DSCN2080-small-33.jpg",
+      "https://fastly.4sqi.net/img/general/width960/48897856_fQfUwkBqnZtfkaDENfk6olltSpwgLObyxmPNzI9xPpU.jpg"
+    ],
+    "comments": [
+      "Meşe ağaçlarının altında, yeşilliklerle çevrili, iki eğitmen tarafından yönetilen iki kort Taksim Tenis, İstanbul'da tenis oynamak için en güzel ortamlardan biridir.",
+      "Çok güzel yer temiz bir mekandır",
+      "Tenis oynamak için çok iyi bir yer"
+    ]
+  },
+  {
+    "name": "Çankaya Tenis Kortları",
+    "district": "Çankaya",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "Bilgi almak için arayınız.",
+    "slug": "cankaya-tenis-kortlari",
     "phone": "0532 257 84 95",
     "cover": "http://www.taksimtenis.com/images/DSC02380-small-46.jpg",
     "adress": "https://goo.gl/maps/9YPrFUTLwvhW4mpK8",

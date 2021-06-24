@@ -16,11 +16,15 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }],
   },
 
+  publicRuntimeConfig: {
+    siteURL: process.env.SITE_URL || 'https://www.tenispartnerim.com',
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [{ src: '~/plugins/vue-splide', ssr: false }],
+  plugins: [{ src: '~/plugins/vue-splide', ssr: false }, '~/plugins/mixins.js'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
