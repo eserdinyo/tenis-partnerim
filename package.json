@@ -16,8 +16,7 @@
     "@vue-hero-icons/outline": "^1.7.2",
     "core-js": "^3.9.1",
     "daisyui": "^1.4.0",
-    "nuxt": "^2.15.3",
-    "nuxt-gmaps": "^1.2.10"
+    "nuxt": "^2.15.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.0",

@@ -6,10 +6,24 @@
         {{ court.name }}
       </h1>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <div class="">
-          <CourtSlider :images="court.images" />
+        <div>
+          <CourtSlider v-if="court.images" :images="court.images" />
         </div>
-        <div class="font-semibold">Fiyat: {{ court.price }}</div>
+        <div>
+          <div class="font-semibold">Fiyat: {{ court.price }}</div>
+          <div class="flex items-center">
+            <LocationMarkerIcon class="h-4 w-4 mr-1" />
+            <a target="_blank" class="link" :href="court.adress"
+              >Adres için tıklayın.</a
+            >
+          </div>
+          <div class="flex items-center">
+            <PhoneIcon class="h-4 w-4 mr-1" />
+            <a class="link" :href="`tel:${court.phone}`"
+              >Aramak için tıklayın</a
+            >
+          </div>
+        </div>
       </div>
       <div>
         <h2
@@ -27,38 +41,18 @@
           </div>
         </div>
       </div>
-      <div class="mt-8">
-        <GMap
-          ref="gMap"
-          language="tr"
-          :cluster="{ options: { styles: clusterStyle } }"
-          :center="{ lat: locations[0].lat, lng: locations[0].lng }"
-          :options="{ fullscreenControl: false, styles: mapStyle }"
-          :zoom="6"
-        >
-          <GMapMarker
-            v-for="location in locations"
-            :key="location.id"
-            :position="{ lat: location.lat, lng: location.lng }"
-            :options="{
-              icon:
-                location === currentLocation ? pins.selected : pins.notSelected,
-            }"
-            @click="currentLocation = location"
-          >
-            <GMapInfoWindow :options="{ maxWidth: 200 }">
-              <code> lat: {{ location.lat }}, lng: {{ location.lng }} </code>
-            </GMapInfoWindow>
-          </GMapMarker>
-          <GMapCircle :options="circleOptions" />
-        </GMap>
-      </div>
     </div>
   </div>
 </template>
 
 <script>
+import { LocationMarkerIcon, PhoneIcon } from '@vue-hero-icons/outline'
+
 export default {
+  components: {
+    LocationMarkerIcon,
+    PhoneIcon,
+  },
   data() {
     return {
       court: null,

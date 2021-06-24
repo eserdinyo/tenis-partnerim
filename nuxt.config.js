@@ -37,12 +37,6 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    [
-      'nuxt-gmaps',
-      {
-        key: 'AIzaSyCThJR_V15aWcwYVlvkeSXk0bxFiRfXasg',
-      },
-    ],
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
