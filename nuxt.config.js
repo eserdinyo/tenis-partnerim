@@ -37,8 +37,35 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    [
+      'nuxt-i18n',
+      {
+        // Only load the translations that the app uses
+        lazy: true,
+        // Directory that contains translations files
+        langDir: 'lang/',
+        detectBrowserLanguage: {
+          useCookie: true,
+          alwaysRedirect: true,
+        },
+      },
+    ],
   ],
-
+  i18n: {
+    locales: [
+      {
+        code: 'tr',
+        file: 'tr.js',
+        name: 'TR',
+      },
+      {
+        code: 'en',
+        file: 'en.js',
+        name: 'EN',
+      },
+    ],
+    defaultLocale: 'tr',
+  },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 

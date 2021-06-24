@@ -24,6 +24,12 @@ export default {
       courts: [],
     }
   },
+  nuxtI18n: {
+    paths: {
+      tr: '/kortlar',
+      en: '/courts',
+    },
+  },
   async fetch() {
     const courts = await this.$content('courts').fetch()
     this.courts = courts

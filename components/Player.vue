@@ -17,18 +17,22 @@
       />
     </figure>
     <div class="card-body flex flex-col">
-      <h3 class="card-title mb-2">{{ player.name }}, {{ player.age }} yaş</h3>
+      <h3 class="card-title mb-2">
+        {{ player.name }}, {{ player.age }} {{ $t('YEARS_OLD') }}
+      </h3>
       <div class="flex items-center justify-center mb-2">
         <LocationMarkerIcon class="h-4 w-4 mr-1" />
         <h4 class="text-sm">{{ player.district }}, {{ player.city }}</h4>
       </div>
-      <h4 class="text-sm mb-8 font-medium">Seviye: ITN {{ player.itn }}</h4>
+      <h4 class="text-sm mb-8 font-medium">
+        {{ $t('LEVEL') }}: ITN {{ player.itn }}
+      </h4>
       <p v-if="player.description" class="mb-8">
         {{ player.description.substr(0, 120) }}...
       </p>
       <div class="justify-center card-actions mt-auto">
         <nuxt-link :to="`/player/${player.slug}`" class="btn btn-outline"
-          >Daha Fazla...</nuxt-link
+          >{{ $t('MORE') }}...</nuxt-link
         >
       </div>
     </div>

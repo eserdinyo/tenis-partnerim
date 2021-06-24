@@ -19,13 +19,13 @@
         </div>
       </div>
       <div class="font-bold mb-4">
-        {{ player.howManyYears }} yıldır tenis oynuyorum.
+        {{ $t('YEARS_PLAY_TENNIS', { year: player.howManyYears }) }}.
       </div>
       <div class="mb-8">
         {{ player.description }}
       </div>
       <div>
-        <h3 class="font-medium mb-2">Buradan Ulaşabilirsiniz</h3>
+        <h3 class="font-medium mb-2">{{ $t('REACH_HERE') }}</h3>
         <div>
           <a
             v-if="player.instagram"
