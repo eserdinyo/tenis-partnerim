@@ -12,7 +12,7 @@
       <div class="pl-16">
         <div class="items-stretch hidden lg:flex space-x-2">
           <nuxt-link
-            :to="localePath('courts')"
+            :to="localePath('cities')"
             class="btn btn-sm btn-ghost rounded-btn"
           >
             {{ $t('COURTS') }}

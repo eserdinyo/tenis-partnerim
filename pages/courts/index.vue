@@ -26,8 +26,8 @@ export default {
   },
   nuxtI18n: {
     paths: {
-      tr: '/kortlar',
-      en: '/courts',
+      tr: '/:slug',
+      en: '/:slug',
     },
   },
   async fetch() {
