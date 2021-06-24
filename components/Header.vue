@@ -21,14 +21,7 @@
       </div>
 
       <div class="ml-auto hidden lg:flex items-center">
-        <nuxt-link
-          v-for="locale in availableLocales"
-          :key="locale.code"
-          :to="switchLocalePath(locale.code)"
-          class="text-sm font-semibold mr-2 text-gray-900"
-          >{{ locale.name }}</nuxt-link
-        >
-
+        <LanguageSwitcher />
         <a
           href="https://forms.gle/3vPEF7kWpxQciBgz9"
           target="_blank"
@@ -36,19 +29,21 @@
           >{{ $t('REGISTER') }}</a
         >
       </div>
-
-      <div class="dropdown dropdown-end lg:hidden ml-auto">
-        <div tabindex="0" class="m-1 btn btn-active"><MenuAlt3Icon /></div>
-        <ul class="shadow menu dropdown-content bg-base-100 rounded-box w-52">
-          <li>
-            <nuxt-link to="/courts"> Kortlar </nuxt-link>
-          </li>
-          <li>
-            <a href="https://forms.gle/3vPEF7kWpxQciBgz9" target="_blank"
-              >Kayıt Ol</a
-            >
-          </li>
-        </ul>
+      <div class="lg:hidden ml-auto flex items-center">
+        <LanguageSwitcher />
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" class="m-1 btn btn-active"><MenuAlt3Icon /></div>
+          <ul class="shadow menu dropdown-content bg-base-100 rounded-box w-52">
+            <li>
+              <nuxt-link to="/courts"> Kortlar </nuxt-link>
+            </li>
+            <li>
+              <a href="https://forms.gle/3vPEF7kWpxQciBgz9" target="_blank"
+                >Kayıt Ol</a
+              >
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -59,11 +54,6 @@ import { MenuAlt3Icon } from '@vue-hero-icons/outline'
 export default {
   components: {
     MenuAlt3Icon,
-  },
-  computed: {
-    availableLocales() {
-      return this.$i18n.locales.filter((i) => i.code !== this.$i18n.locale)
-    },
   },
 }
 </script>
