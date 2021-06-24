@@ -7,7 +7,9 @@
       </h1>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div>
-          <CourtSlider v-if="court.images" :images="court.images" />
+          <client-only>
+            <CourtSlider v-if="court.images" :images="court.images" />
+          </client-only>
         </div>
         <div>
           <div class="font-semibold">Fiyat: {{ court.price }}</div>
@@ -56,33 +58,12 @@ export default {
   data() {
     return {
       court: null,
-      currentLocation: {},
-      circleOptions: {},
-      locations: [],
-      pins: {
-        selected: 'data:image/png;base64,iVBORw0KGgo...',
-        notSelected: 'data:image/png;base64,iVBORw0KGgo...',
-      },
-      mapStyle: [],
-      clusterStyle: [
-        {
-          url: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m1.png',
-          width: 56,
-          height: 56,
-          textColor: '#fff',
-        },
-      ],
     }
   },
   async fetch() {
     const slug = this.$route.params.slug
     const court = await this.$content('courts').where({ slug }).fetch()
     this.court = court[0]
-    const coordinate = {
-      lat: this.court.lat,
-      lng: this.court.lng,
-    }
-    this.locations.push(coordinate)
   },
 }
 </script>
