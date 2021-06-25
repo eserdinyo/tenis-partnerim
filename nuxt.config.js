@@ -54,6 +54,7 @@ export default {
         },
       },
     ],
+    '@nuxtjs/sitemap',
   ],
   i18n: {
     locales: [
@@ -69,6 +70,9 @@ export default {
       },
     ],
     defaultLocale: 'tr',
+  },
+  sitemap: {
+    hostname: 'https://www.tenispartnerim.com/',
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
