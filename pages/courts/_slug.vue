@@ -60,6 +60,12 @@ export default {
       court: null,
     }
   },
+  nuxtI18n: {
+    paths: {
+      tr: '/kort/:slug',
+      en: '/court/:slug',
+    },
+  },
   async fetch() {
     const slug = this.$route.params.slug
     const court = await this.$content('courts').where({ slug }).fetch()

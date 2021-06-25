@@ -1,7 +1,8 @@
+import { createSitemapRoutes } from './utils/createSitemapRoutes'
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Tenis Partnerim',
@@ -73,6 +74,8 @@ export default {
   },
   sitemap: {
     hostname: 'https://www.tenispartnerim.com/',
+    gzip: true,
+    routes: createSitemapRoutes,
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},

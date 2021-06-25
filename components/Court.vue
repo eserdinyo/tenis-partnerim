@@ -1,6 +1,6 @@
 <template>
   <nuxt-link
-    :to="`/courts/${court.slug}`"
+    :to="localePath({ name: 'courts-slug', params: { slug: court.slug } })"
     class="
       card
       transition
