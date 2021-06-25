@@ -65,6 +65,9 @@ export default {
     const court = await this.$content('courts').where({ slug }).fetch()
     this.court = court[0]
   },
+  head() {
+    return this.court && this.head(this.court.name, this.court.name)
+  },
 }
 </script>
 

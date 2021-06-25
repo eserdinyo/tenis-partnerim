@@ -35,7 +35,7 @@
           <div tabindex="0" class="m-1 btn btn-active"><MenuAlt3Icon /></div>
           <ul class="shadow menu dropdown-content bg-base-100 rounded-box w-52">
             <li>
-              <nuxt-link to="/courts"> Kortlar </nuxt-link>
+              <nuxt-link :to="localePath('cities')"> Kortlar </nuxt-link>
             </li>
             <li>
               <a href="https://forms.gle/3vPEF7kWpxQciBgz9" target="_blank"

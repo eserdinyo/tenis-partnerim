@@ -45,7 +45,7 @@ export default {
     this.city = city[0]
   },
   head() {
-    return this.head(this.city.name, this.description)
+    return this.city && this.head(this.city.name, this.description)
   },
   computed: {
     description() {
