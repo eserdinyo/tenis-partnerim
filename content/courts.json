@@ -39,6 +39,50 @@
     ]
   },
   {
+    "name": "ODTÜ Tenis Kortları",
+    "district": "Çankaya",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "Bilgi almak için arayınız.",
+    "slug": "odtu-tenis-kortlari",
+    "phone": "",
+    "cover": "https://i.hizliresim.com/dt7ttbj.png",
+    "adress": "https://goo.gl/maps/cgWApUEZzAPJh8hx5",
+    "images": [
+      "https://fastly.4sqi.net/img/general/width960/32969859_FHa5jaI-wfZ5VNx5xbXeVXHXw8BcUZPlcPuM9eXCDy0.jpg",
+      "https://fastly.4sqi.net/img/general/width960/35089187_eKj0-e-vIt5n_rIbUM1lMYmKSkzZbHSsrXhhkCyuEYg.jpg",
+      "https://fastly.4sqi.net/img/general/width960/38957671_hTRr27RknuyqmqLuaVL-_rycm8fMf8qX5e7EbOburQk.jpg",
+      "https://fastly.4sqi.net/img/general/width960/16945509_ZPl-2UvsfaH6tMP8RNdHmCz7x_2aBETJ97M65i2vji0.jpg"
+    ],
+    "comments": [
+      "Everything about METU deserves 5-stars. Nice place to chill. Have a lunch, tea, etc. If you are not a university student or a graduate, one most probably face difficulty entering the premises of the campus though.",
+      "Sakince tenis oynamak isteyenler için gayet başarılı ve güzel bir tesis olmuş",
+      "Yeşillüğin ortasında çok güzel",
+      "Tenis oynayabileceğiniz ya da oynayanları izleyebileceğiniz, sakinliğiyle ve yeşil doğasıyla insana huzur veren bir yer.."
+    ]
+  },
+  {
+    "name": "Antuka Tennis Academy",
+    "district": "Maltepe ",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız.",
+    "slug": "antuka-tennis-academy",
+    "phone": "+90 (538) 930 64 06",
+    "cover": "https://i.hizliresim.com/6zz675t.png",
+    "adress": "https://goo.gl/maps/6jVCp6cZvnqNNz9s8",
+    "images": [
+      "https://antuka.com.tr/wp-content/uploads/2020/07/antuka-tenis-akademisi-tesis-1.jpg",
+      "https://i.hizliresim.com/6zz675t.png",
+      "https://i.hizliresim.com/osji05e.png"
+    ],
+    "comments": [
+      "Çok temiz bir tesis. Çalışanlar ve hocalar güler yüzlü. Samimi bir yer.",
+      "Çok kaliteli öğretmen kadrosu ve sportif yaklaşımın eğitim ile uyumlu birleştiği mekan. Mekânı iyi yapan taş ve duvarlar değil içindeki insanlardır.",
+      "Çocuklarinizin akademik olarak tenis egitimi almasi icin ve bu egitim sirasinda ailece vakit gecirebileceginiz imkanlar sunmasi harika dragosun havasida mukemmel"
+    ]
+  },
+  {
     "name": "Taksim Tenis Kortları",
     "district": "Şişli",
     "city": "İstanbul",
@@ -61,25 +105,46 @@
     ]
   },
   {
-    "name": "Çankaya Tenis Kortları",
-    "district": "Çankaya",
-    "city": "Ankara",
-    "citySlug": "ankara",
-    "price": "Bilgi almak için arayınız.",
-    "slug": "cankaya-tenis-kortlari",
-    "phone": "0532 257 84 95",
-    "cover": "http://www.taksimtenis.com/images/DSC02380-small-46.jpg",
-    "adress": "https://goo.gl/maps/9YPrFUTLwvhW4mpK8",
+    "name": "Yeşilyurt Spor Klübü Tenis Kortu",
+    "district": " Bakırköy",
+    "city": "İstanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "yesilyurt-spor-klubu-tenis-kortu",
+    "phone": "+90 212 573 73 74",
+    "cover": "https://fastly.4sqi.net/img/general/width960/115210863_kTn1PqetBHoH20nIsHltj-1fFcIUi_kq6-6YnzEJpbc.jpg",
+    "adress": "https://goo.gl/maps/DDbascgM7p7DxdQ96",
     "images": [
-      "http://www.taksimtenis.com/images/DSC02380-small-46.jpg",
-      "https://fastly.4sqi.net/img/general/600x600/48030957_pGyhYnU9LRO9w4EctavfQ6wKOszFAFY3uNDpiD-L1pY.jpg",
-      "http://www.taksimtenis.com/images/DSCN2080-small-33.jpg",
-      "https://fastly.4sqi.net/img/general/width960/48897856_fQfUwkBqnZtfkaDENfk6olltSpwgLObyxmPNzI9xPpU.jpg"
+      "https://fastly.4sqi.net/img/general/width960/115210863_kTn1PqetBHoH20nIsHltj-1fFcIUi_kq6-6YnzEJpbc.jpg",
+      "https://fastly.4sqi.net/img/general/width960/115210863_hVQa-6XFYgPxynIW7fJbwIuy9O8ZjYPBb18t_zVsxUY.jpg",
+      "https://static.wixstatic.com/media/832412_52a2dddf84504ab5961737779f4ea179.jpg/v1/fill/w_723,h_482,al_c,q_80,usm_0.66_1.00_0.01/832412_52a2dddf84504ab5961737779f4ea179.webp",
+      "https://static.wixstatic.com/media/832412_ab488845ed7347c9acd257de49b84fdf.jpg/v1/fill/w_723,h_482,al_c,q_80,usm_0.66_1.00_0.01/832412_ab488845ed7347c9acd257de49b84fdf.webp"
     ],
     "comments": [
-      "Meşe ağaçlarının altında, yeşilliklerle çevrili, iki eğitmen tarafından yönetilen iki kort Taksim Tenis, İstanbul'da tenis oynamak için en güzel ortamlardan biridir.",
-      "Çok güzel yer temiz bir mekandır",
-      "Tenis oynamak için çok iyi bir yer"
+      "Keyifle tüm günü geçirebileceğiniz, tenis oynayıp havuza girebileceğiniz çok sempatik bir kulüp.",
+      "Tenis için harika bir mekan...",
+      "Muhtesem bir yer"
+    ]
+  },
+  {
+    "name": "Ege Üniversitesi Tenis Kortları",
+    "district": " Bornova",
+    "city": "İzmir",
+    "citySlug": "izmir",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ege-universitesi-tenis-kortlari",
+    "phone": "",
+    "cover": "https://i.hizliresim.com/4yr5v3e.png",
+    "adress": "https://goo.gl/maps/AGkSPEdv2PczXKsE9",
+    "images": [
+      "https://fastly.4sqi.net/img/general/width960/24891583_c3pE0VaL9jNSUPz2lZCPZ2shDnt4_Ovoq9QcVsdvv-M.jpg",
+      "https://fastly.4sqi.net/img/general/width960/27930712_HAMZhADl6A1cEGZoUjntI_YeLHvMuFKehhQ04CSksVk.jpg",
+      "https://fastly.4sqi.net/img/general/width960/146954070_U5U9XMACEzqgg4dtXePLHF51SjLY_04mFmC9EePzQOE.jpg",
+      "https://fastly.4sqi.net/img/general/width960/64366638_CynuHljpGaPpDm1lflYyQBVINuZneaVqmaZJBMrdOFc.jpg"
+    ],
+    "comments": [
+      "I am playing here. Courts are nrw and good. There is indoor, outdoor courts and wall to excercise.",
+      "Tenis de şehir içindeki adresimiz!..",
+      "Ege üniversitesinin güzel bir imkanı. Uygun ücretlerle öğrenciler, üniversite personeli ve dışarıdan gelenler faydalanabiliyor. Ders alma konusunda yetenekli eğitmenler çok yardımcı oluyor. Ama keşke bu kadar erken kapanması ve pazar günleri de açık olsa"
     ]
   }
 ]
