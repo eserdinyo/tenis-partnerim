@@ -28,7 +28,12 @@
         {{ $t('LEVEL') }}: ITN {{ player.itn }}
       </h4>
       <p v-if="player.description" class="mb-8">
-        {{ player.description.substr(0, 120) }}...
+        <template v-if="$i18n.locale === 'tr'">
+          {{ player.description.substr(0, 120) }}...
+        </template>
+        <template v-else>
+          {{ player.description_en.substr(0, 120) }}...
+        </template>
       </p>
       <div class="justify-center card-actions mt-auto">
         <nuxt-link :to="`/player/${player.slug}`" class="btn btn-outline"

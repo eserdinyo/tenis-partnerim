@@ -10,7 +10,8 @@
     "telegram": "",
     "howManyYears": 3,
     "image": "https://i.hizliresim.com/284fkur.jpg",
-    "description": "Merhaba, kısa bir boş vaktim var ve onu da tenisle doldurmak istedim. Eğlenceli vakit geçirebileceğimiz ve kendimizi geliştirebileceğimiz bir arkadaş arıyorum. Ig'den ulaşabilirsiniz. Bol tenisli günlerrr"
+    "description": "Merhaba, kısa bir boş vaktim var ve onu da tenisle doldurmak istedim. Eğlenceli vakit geçirebileceğimiz ve kendimizi geliştirebileceğimiz bir arkadaş arıyorum. Ig'den ulaşabilirsiniz. Bol tenisli günlerrr",
+    "description_en": "Hello, I have a short spare time and I wanted to fill it with tennis. I am looking for a friend with whom we can have fun and improve ourselves. You can find it on Ig. Lots of tennis days"
   },
   {
     "name": "Mehmet Okan",
@@ -23,7 +24,8 @@
     "telegram": "",
     "howManyYears": 1,
     "image": "https://i.hizliresim.com/928s8if.jpeg",
-    "description": "Tozlanan tenis raketimi gün yüzüne çıkarmak istiyorum."
+    "description": "Tozlanan tenis raketimi gün yüzüne çıkarmak istiyorum.",
+    "description_en": "I want to unearth my dusty tennis racket."
   },
   {
     "name": "İlayda",
@@ -36,7 +38,8 @@
     "telegram": "",
     "howManyYears": 1,
     "image": "https://i.hizliresim.com/2qkpx8y.png",
-    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum."
+    "description": "Birlikte tenis oynayacağım eğlenceli tenis partneri arıyorum.",
+    "description_en": "I am looking for a fun tennis partner to play tennis with."
   },
   {
     "name": "Muhammet",
@@ -47,6 +50,7 @@
     "slug": "muhammet",
     "image": "https://i.hizliresim.com/gzw5fg9.png",
     "description": "Selamlar. Muhammet ben. Tenis oynamaya üniversitede ev arkadaşımla başladım. 2 yıl kadar üniversitede oynadım. Daha sonra mezun olduktan sonra İstanbulda partner bulamamadığım için ara ara çevremdekilere öğretip oynamaya çalıştım :) Yakın seviyede arkadaşlarla tanışıp oynamayı isterim.",
+    "description_en": "Greetings. I am Mohammed. I started playing tennis in college with my roommate. I played at university for 2 years. Since I couldn't find a partner in Istanbul after my graduation, I tried to teach and play with my friends from time to time :) I would like to meet and play with friends at a close level.",
     "instagram": "eserdinyo",
     "telegram": "eserdinyo",
     "howManyYears": 2
@@ -59,7 +63,8 @@
     "itn": 10,
     "slug": "HsueyinAcikbas",
     "image": "https://i.hizliresim.com/qvng76h.jpg",
-    "description": "Tenise yeni başladım. Birlikte oynacak arkadaş arıyorum.",
+    "description": "Tenise yeni başladım. Birlikte oynayacak arkadaş arıyorum.",
+    "description_en": "I just started tennis. I am looking for friends to play with.",
     "instagram": "huseyin_acikbas",
     "telegram": "huseyin_acikbas",
     "howManyYears": 0
@@ -75,6 +80,7 @@
     "telegram": "kadirbay",
     "howManyYears": 2,
     "image": "https://i.hizliresim.com/pdpfmwv.png",
-    "description": "2 yıldır okulda tenis oynuyordum. Okul bittği için partner bulamıyorum. Çarşamba civarında tenis oynacak arkadaşları bekliyorum."
+    "description": "2 yıldır okulda tenis oynuyordum. Okul bittiği için partner bulamıyorum. Çarşamba civarında tenis oynayacak arkadaşları bekliyorum.",
+    "description_en": "I was playing tennis at school for 2 years. I can't find a partner because school is over. I'm expecting friends to play tennis around Wednesday."
   }
 ]

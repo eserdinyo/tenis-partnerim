@@ -22,7 +22,12 @@
         {{ $t('YEARS_PLAY_TENNIS', { year: player.howManyYears }) }}.
       </div>
       <div class="mb-8">
-        {{ player.description }}
+        <template v-if="$i18n.locale === 'tr'">
+          {{ player.description }}
+        </template>
+        <template v-else>
+          {{ player.description_en }}
+        </template>
       </div>
       <div>
         <h3 class="font-medium mb-2">{{ $t('REACH_HERE') }}</h3>
