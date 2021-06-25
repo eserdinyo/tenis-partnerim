@@ -4,12 +4,11 @@
       class="p-4 border-t border-gray-500 md:flex items-center justify-between"
     >
       <div class="mb-4 md:mb-0">
-        Telegram grubumuza katılmak için
         <a
           target="_blank"
           class="link"
           href="https://t.me/joinchat/NVZKfxazkcsXCL9nvFPgtA"
-          >tıklayın.</a
+          >{{ $t('JOIN_OUR_TELEGRAM_GROUP') }}</a
         >
       </div>
       <a href="https://www.instagram.com/tenispartnerim/" target="_blank">
