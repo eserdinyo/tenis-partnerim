@@ -146,5 +146,48 @@
       "Tenis de şehir içindeki adresimiz!..",
       "Ege üniversitesinin güzel bir imkanı. Uygun ücretlerle öğrenciler, üniversite personeli ve dışarıdan gelenler faydalanabiliyor. Ders alma konusunda yetenekli eğitmenler çok yardımcı oluyor. Ama keşke bu kadar erken kapanması ve pazar günleri de açık olsa"
     ]
+  },
+  {
+    "name": "Antalya Lara Tenis Kulübü",
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "citySlug": "antalya",
+    "price": "Bilgi almak için arayınız",
+    "slug": "antalya-lara-tenis-kulubu",
+    "phone": "+905304704015",
+    "cover": "https://i.hizliresim.com/svwjma5.png",
+    "adress": "https://goo.gl/maps/KV2cediJDdmi6nua7",
+    "images": [
+      "http://www.larateniskulubu.com/assets/images/gallery/IMG-20200103-036.jpg",
+      "http://www.larateniskulubu.com/assets/images/gallery/IMG-20200103-027.jpg",
+      "http://www.larateniskulubu.com/assets/images/gallery/IMG-20200103-030.jpg",
+      "http://www.larateniskulubu.com/assets/images/gallery/IMG-20200103-022.jpg"
+    ],
+    "comments": [
+      "Güzel tesis. Düzenli gidiyorum. En sevdiğim mekan.",
+      "Evime yakin köpegim de kabul leniyor ve cok seviyor tenis toplarini",
+      "Haftada en az 3 kez tenis oynuyorum.  Cok iyi samimi bir ortam."
+    ]
+  },
+  {
+    "name": "Lara Düden Park Tenis Kortları",
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "citySlug": "antalya",
+    "price": "Bilgi almak için arayınız",
+    "slug": "lara-duden-park-tenis-kortlari",
+    "phone": "+902423212470",
+    "cover": "https://fastly.4sqi.net/img/general/width960/77956487_huTMpD6c5t-c9ts23ZSOTff3aCrf4dxiZe0RaaCoQW0.jpg",
+    "adress": "https://goo.gl/maps/eGcuHbo1eRPLzE5F7",
+    "images": [
+      "https://fastly.4sqi.net/img/general/width960/155275918_ZrUxvPFzpnjJEtbd03WAmsIf-mBrrFEfF3VbDOwYEXQ.jpg",
+      "https://fastly.4sqi.net/img/general/width960/88939462_oWSMVqo1SAtYwFKCeG4Ru-OhzQeU8b0_1coniuIW0rk.jpg",
+      "https://fastly.4sqi.net/img/general/width960/205843390_i2O1RSptx1KBe22hPMysrWGHT4pAHbediqnoMinXrL8.jpg"
+    ],
+    "comments": [
+      "Beton zemin. Temiz, bakımlı. Kullanım için internetten rezervasyon gerekiyor. Haftada bir, bir saat. O nedenle boş duruyor.",
+      "Kort görevlisi ilgili ve yardımsever.A kortunun zemininde iyileştirme yapılması gereken bir kaç yer var.Suistimal edilmemesi haricinde randevular haftada iki ve ya üç e çıkarılırsa daha iyi olur.",
+      "Antalya Büyükşehir Belediyesinin halka açık ÜCRETSİZ olarak hizmet verdiği Lara Düdenpark içindeki iki adet tenis kortu gayet güzel herkese tavsiye edilecek bir spor tesisidir. Tesisin Telefon numarasından aranarak ÜCRETSİZ randevu alınabilmektedir."
+    ]
   }
 ]
