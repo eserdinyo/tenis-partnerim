@@ -21,7 +21,8 @@ Vue.mixin({
           { name: 'og:type', content: 'website' },
           {
             name: 'og:image',
-            content: image || this.$config.siteURL + '/logo.png',
+            content:
+              image || this.$config.siteURL + '/tenis-partnerim-huge-logo.png',
           },
           {
             name: 'og:description',
@@ -37,7 +38,8 @@ Vue.mixin({
           },
           {
             name: 'twitter:image',
-            content: image || this.$config.siteURL + '/logo.png',
+            content:
+              image || this.$config.siteURL + '/tenis-partnerim-huge-logo.png',
           },
         ],
       }

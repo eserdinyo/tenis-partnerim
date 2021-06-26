@@ -28,5 +28,38 @@ export default {
     const players = await this.$content('players').fetch()
     this.players = players
   },
+  head() {
+    return {
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://www.tenispartnerim.com/',
+        },
+      ],
+      meta: [
+        { name: 'og:url', content: this.$config.siteURL },
+        { name: 'og:type', content: 'website' },
+        {
+          name: 'og:image',
+          content: this.$config.siteURL + '/tenis-partnerim-huge-logo.png',
+        },
+        { name: 'og:description', content: this.defaultMetaDescription },
+        { name: 'description', content: this.defaultMetaDescription },
+        {
+          name: 'twitter:description',
+          content: this.defaultMetaDescription,
+        },
+        {
+          name: 'twitter:image',
+          content: this.$config.siteURL + '/tenis-partnerim-huge-logo.png',
+        },
+      ],
+    }
+  },
+  computed: {
+    defaultMetaDescription() {
+      return 'Seviyenize uygun tenis partnerleri bulun!'
+    },
+  },
 }
 </script>
