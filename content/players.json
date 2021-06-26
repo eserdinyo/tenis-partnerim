@@ -1,5 +1,19 @@
 [
   {
+    "name": "Fatoş",
+    "age": 33,
+    "district": "Muratpaşa-Kepez",
+    "city": "Antalya",
+    "itn": 10,
+    "slug": "zeytin.art",
+    "instagram": "zeytin.art",
+    "telegram": "",
+    "howManyYears": 1,
+    "image": "https://i.hizliresim.com/j7hndmo.png",
+    "description": "Merhaba. Başlangıç seviyesindeyim.",
+    "description_en": "Hello. I'm a beginner."
+  },
+  {
     "name": "Nurettin Akpınar ",
     "age": 23,
     "district": "Yenimahalle",

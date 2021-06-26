@@ -71,6 +71,12 @@ export default {
       player: null,
     }
   },
+  nuxtI18n: {
+    paths: {
+      tr: '/oyuncu/:slug',
+      en: '/player/:slug',
+    },
+  },
   async fetch() {
     const slug = this.$route.params.slug
     const player = await this.$content('players').where({ slug }).fetch()
