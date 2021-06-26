@@ -13,6 +13,8 @@
     <figure class="px-10 pt-10">
       <img
         :src="player.image"
+        :alt="player.slug"
+        :title="player.slug"
         class="rounded-full h-28 w-28 object-cover mx-auto"
       />
     </figure>

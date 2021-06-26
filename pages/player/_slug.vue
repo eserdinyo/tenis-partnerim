@@ -6,6 +6,8 @@
         <img
           :src="player.image"
           class="rounded-full h-28 w-28 object-cover mr-4"
+          :alt="player.slug"
+          :title="player.slug"
         />
         <div>
           <h3 class="card-title mb-2">
