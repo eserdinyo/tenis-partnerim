@@ -200,14 +200,134 @@
     "phone": "",
     "cover": "https://i.hizliresim.com/48l22y7.png",
     "adress": "https://goo.gl/maps/EnXV64x1ryUhdBCt7",
-    "images": [
-      "https://i.hizliresim.com/48l22y7.png"
-    ],
+    "images": ["https://i.hizliresim.com/48l22y7.png"],
     "comments": [
       "Kortlara rezervasyon alarak girebiliyorsunuz. Ayrıca eğer yer bulabilirseniz özel tenis dersi de alabiliyorsunuz.",
       "8 good courts to play all day&night",
       "çok guzel",
       "Randevusuz oynayamiyorsunuz 1 saatlik randevular pek cekici gelmesede ortam güzel"
     ]
+  },
+  {
+    "name": "İBB Maltepe Sahil Spor Tesisi",
+    "district": "Maltepe",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-maltepe-sahil-spor-tesisi",
+    "phone": "(0216) 586 57 58",
+    "cover": "https://pbs.twimg.com/media/DaHxM9YWkAI5TIM.jpg",
+    "adress": "https://goo.gl/maps/RdYQ3pBcPHzF6Lqs8",
+    "images": ["https://www.ibb.istanbul/Uploads/2018/9/ZN9A8495.jpg", "", ""],
+    "comments": [
+      "Arkadaşlarla tenis oynamaya gittik.Otlar bakımlıydı. ",
+      "Tenis kortlarında ısıtma yok kışın ortasında... Duvar olması mükemmel yeşil alan aktiviteler mükemmelTenis kortları da dahil olmak üzere insanın İstanbul gibi büyük bir şehirde nefes alabileceği bir yer",
+      "Tenis kortları da dahil olmak üzere insanın İstanbul gibi büyük bir şehirde nefes alabileceği bir yer"
+    ]
+  },
+  {
+    "name": "İBB Bostancı Sahil Spor Tesisi",
+    "district": "Bostancı",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-bostanci-sahil-spor-tesisi",
+    "phone": "0216) 586 56 98",
+    "cover": "https://spor.istanbul/wp-content/uploads/2020/06/tenis..jpg",
+    "adress": "https://goo.gl/maps/LZ4KUn3NY7upNdCt9",
+    "images": [
+      "https://www.istanbulsporenvanteri.com/uploads/resim/8636-1/xcuovlim.bnl.JPG"
+    ],
+    "comments": [
+      "tenis oynadığımız yer",
+      "Tenis için tercih ettiğim bir yer... Bölge halkı için herşey var..ve çalışanlar çok yardımcı ...Soyunma odası ve Duş hep müsait sıcak su dahil...ve oto park"
+    ]
+  },
+  {
+    "name": "İBB Dudullu Spor Tesisi",
+    "district": "Dudullu/Ümraniye",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-dudullu-spor-tesisi",
+    "phone": "(0216) 365 36 21",
+    "cover": "https://spor.istanbul/wp-content/uploads/2020/06/dudullu-spor-tesisi-4.jpg",
+    "adress": "https://goo.gl/maps/iEb5Lywg7xAawPYXA",
+    "images": [
+      "https://spor.istanbul/wp-content/uploads/2020/06/dudullu-spor-tesisi-3.jpg",
+      "https://spor.istanbul/wp-content/uploads/2020/06/dudullu-spor-tesisi-6.jpg",
+      "https://fastly.4sqi.net/img/general/600x600/29009571_jdS3dpl_ZnO8fEvZlIqAxHEdt5f4XPIn8MfGYVvqpPs.jpg"
+    ],
+    "comments": [
+      "Kapalı tenis kortu var önemli",
+      "Kapalı kortun tavanı da onarilsa harika olacak. Yağmur da sorun oluyor.",
+      "Tenis kortunu kullanıyoruz, soyunma odaları, wcler çok temiz, fiyat çok ucuz."
+    ]
+  },
+  {
+    "name": "İBB Tuzla Sahil Spor Tesisi",
+    "district": "Tuzla",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-tuzla-sahil-spor-tesisi",
+    "phone": "(0216) 586 57 52",
+    "cover": "https://www.playeronsite.com/wp-content/uploads/Tuzla-Sahil-Spor-Tesisi.jpg",
+    "adress": "https://goo.gl/maps/zgTBABoJXeWXrijH9",
+    "images": [""],
+    "comments": [
+      "Tenis kortları iyi durumda. Tek eksisi kortlarda baselinedan sonra bulunan alan biraz küçük tutulmuş, maçlarda sorun olabiliyor."
+    ]
+  },
+  {
+    "name": "İBB Çırpıcı Spor Tesisi",
+    "district": "Zeytinburnu",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-cirpici-spor-tesisi",
+    "phone": "(0212) 449 94 58",
+    "cover": "https://spor.istanbul/wp-content/uploads/2020/06/cirpici-spor-tesisi-4.jpg",
+    "adress": "https://goo.gl/maps/gEzuMJPAdKx9ZAsx5",
+    "images": [
+      "https://spor.istanbul/wp-content/uploads/2020/06/Çırpıcı-02.jpg",
+      "https://i.hizliresim.com/h5rf0xu."
+    ],
+    "comments": [
+      "Hem tenis kortlarına hem de futbol sahasına sahip, harika ve güvenli hizmetlerle şiddetle tavsiye edilen yer ",
+      "Sabah gidip tenis oynamak çok zevkli. Sahalar gayet güzel ve soyunma odaları temiz. Sıcak su var duş çok rahat alabilirsiniz. Kişiye veya gruba özel veriyorlar soyunma odasını. 5 6 oda var anahtarı alıyorsun ve kaç kişiyseniz o oda sizin oluyor.",
+      "5 tenis kortu mevcut. Kortlar gayet iyi. Kayıt actırdıgınızda 7-8 tenis topu alabiliyorsunuz. Aksam oynama için saha ışıklandırmaları gayet yeterli Tek sıkıntısı temizliğe dikkat edilmemesi ve basıbos kişilerin kayıt actırmadan kortlara girebilmeleri."
+    ]
+  },
+  {
+    "name": "İBB Sancaktepe Safa Tepesi Spor Tesisi",
+    "district": "Sancaktepe",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-sancaktepe-safa-tepesi-spor-tesisi",
+    "phone": "(0216) 430 89 91",
+    "cover": "https://spor.istanbul/wp-content/uploads/2020/06/sancaktepe-safa-tepesi-4.jpg",
+    "adress": "https://goo.gl/maps/sAJCjZRcYRML6P3s5",
+    "images": [
+      "https://spor.istanbul/wp-content/uploads/2020/06/sancaktepe-safa-tepesi-5.jpg"
+    ],
+    "comments": []
+  },
+  {
+    "name": "İBB Silivri Mujdat Gürsu Spor Tesisi ve Stadı",
+    "district": "Silivri",
+    "city": "İstanbul",
+    "citySlug": "istanbul",
+    "price": "Bilgi almak için arayınız",
+    "slug": "ibb-silivri-mujdat-gursu-spor-tesisi-ve-stadi",
+    "phone": "02127287534",
+    "cover": "https://spor.istanbul/wp-content/uploads/2020/06/mujdat-gursu-6.jpg",
+    "adress": "https://goo.gl/maps/KxVPd2ET8gD7T8UW7",
+    "images": [
+      "https://spor.istanbul/wp-content/uploads/2020/06/mujdat-gursu-1.jpg",
+      "https://spor.istanbul/wp-content/uploads/2020/06/mujdat-gursu-2.jpg"
+    ],
+    "comments": ["Tenis oynamak için Harika bir yer tavsiye ediyorum."]
   }
 ]
