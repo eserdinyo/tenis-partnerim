@@ -12,6 +12,7 @@
   >
     <figure class="px-10 pt-10">
       <img
+        loading="lazy"
         :src="player.image"
         :alt="player.slug"
         :title="player.slug"

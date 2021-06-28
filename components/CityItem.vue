@@ -12,7 +12,7 @@
     "
   >
     <figure>
-      <img :src="city.thumbnail" class="h-72 object-cover" />
+      <img loading="lazy" :src="city.thumbnail" class="h-72 object-cover" />
     </figure>
     <div class="justify-end card-body p-0">
       <div class="bg-gray-900 py-2 pl-5 bg-opacity-70">
