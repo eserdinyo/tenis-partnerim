@@ -17,6 +17,11 @@ export default {
         name: 'description',
         content: 'Seviyenize uygun tenis partnerleri bulun!',
       },
+      {
+        hid: 'keywords',
+        name: 'keywords',
+        content: 'Tenis Partneri, Tenis Kortları',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' }],
   },
