@@ -355,11 +355,11 @@
     "price": "",
     "slug": "sports-international",
     "phone": "444 7 535",
-    "cover": "https://i.hizliresim.com/bmoefuv.jpg",
+    "cover": "https://fastly.4sqi.net/img/general/width960/48192463_F7YZlm6EPBIvS7C8k0QKMiMNLrY6aRAyixcjZjpIhS8.jpg",
     "adress": "https://goo.gl/maps/7cRFUAcX7XDgScbQA",
     "images": [
-      "https://fastly.4sqi.net/img/general/width960/48192463_F7YZlm6EPBIvS7C8k0QKMiMNLrY6aRAyixcjZjpIhS8.jpg",
-      "https://fastly.4sqi.net/img/general/width960/159916610_Qk6hmDVwdZKz71-LwBGB2qVYKabCKcH5ZL-4-2uK06o.jpg,"
+      "https://fastly.4sqi.net/img/general/width960/159916610_Qk6hmDVwdZKz71-LwBGB2qVYKabCKcH5ZL-4-2uK06o.jpg,",
+      ""
     ],
     "comments": [
       "tenis kortlarıyla meşhur ancak eski bir spor merkezi",
@@ -475,6 +475,69 @@
       "Bu manzarada tenis oynamak istemezmisiniz kortlar gerçekten çok güzel manzaraya diyecek yok",
       "bir tenis meraklısı olarak burada oynamayı cok seviyorum!",
       "Gerek Işıklandırması gerek sahile yakınlığı gerek kort sayısı olaraktan İzmir'in en guzelleri arasına girer"
+    ]
+  },
+  {
+    "name": "Antalya Büyükşehir Belediyesi Konyaaltı Beachpark Tenis Kortları",
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "citySlug": "antalya",
+    "price": "",
+    "slug": "antalya-buyuksehir-belediyesi-konyaalti-beachpark-tenis-kortlari",
+    "phone": "(0242) 321 18 98",
+    "cover": "https://i.hizliresim.com/ge7tihr.",
+    "adress": "https://goo.gl/maps/gV3HXjS73LaHKt416",
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipPU4bIbYKOr3lEr8QxsSvd0giX0v9P-PrKFF1Je",
+      "",
+      ""
+    ],
+    "comments": [
+      "Belediyenin verdiği mükemmel hizmet. Güvenlik kibar ve yardımseverdi. Kortta oynarken 2 dk kala uyarıyor ve böylelikle saate bakmadan rahatça oynayabiliyorsunuz. Tek sıkıntı kort A biraz bakımsız , çukurları var ama yine de bedava olmasını göz önünde bulundursak mükemmel hizmet",
+      "Halka açık bu hizmet için teşekkür ederim tenis sporunu bizlere sevdirdiniz. Yanlız kortlardan bir tanesin8n zemini çok bozuk sakatlıklara neden olabilir biran önce yapılması gerekir. Korttaki görevli arkadaşlar çok ilgili onlatada ayrıca teşekkürler. Başkanımız muhittin böcek in de biran once sağlığına kavuşmasını diliyorum.",
+      "Antalya Büyükşehir Belediyesinin halka açık ÜCRETSİZ olarak hizmet verdiği Konyaaltı Beachpark içindeki iki adet tenis kortu gayet güzel herkese tavsiye edilecek bir spor tesisidir. Tesisin Telefon numarasından aranarak ÜCRETSİZ randevu alınabilmektedir."
+    ]
+  },
+  {
+    "name": "Talat Taşdemir Tenis Akademisi",
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "citySlug": "antalya",
+    "price": "",
+    "slug": "talat-tasdemir-tenis-akademisi",
+    "phone": "0542 566 36 76",
+    "cover": "https://i.hizliresim.com/iziknub.",
+    "adress": "https://goo.gl/maps/aEKVYQkQhX84raeK7",
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipMGoWt1rdL6c-6zOYBjcjeszgMN4cTDQ-YGeqI",
+      "",
+      ""
+    ],
+    "comments": [
+      "6 adet toprak kortu ve çok iyi lokasyonu ile Antalya'da tenisin başat kulüplerinden biri.",
+      "Doğanın içinde tenisin tek adresi .",
+      "Kortların hepsi toprak ve zemin mükemmel.Arkadaşlık ortamı çok iyi."
+    ]
+  },
+  {
+    "name": "ANTALYA TENİS İHTİSAS ve SPOR KULÜBÜ",
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "citySlug": "antalya",
+    "price": "",
+    "slug": "antalya-tenis-ihtisas-ve-spor-kulubu",
+    "phone": "+902422385400",
+    "cover": "http://d25tea7qfcsjlw.cloudfront.net/7433/link/133038/155047.jpeg",
+    "adress": "https://goo.gl/maps/Pp9vieQQJjC1gy5W6",
+    "images": [
+      "http://d25tea7qfcsjlw.cloudfront.net/7433/link/133038/155045.jpeg",
+      "http://d25tea7qfcsjlw.cloudfront.net/7433/link/133038/155044.jpeg",
+      "http://d25tea7qfcsjlw.cloudfront.net/7433/link/133038/155046.jpeg"
+    ],
+    "comments": [
+      "antalya'da tenis oynamak için en iyisi. ",
+      "Toprak kort lar bittikten sonra çok daha kaliteli tenis imkanına kavuştuk. Emeği geçen herkese teşekkür ederim",
+      "Türkiyedeki en iyi tenis kulübü "
     ]
   }
 ]
