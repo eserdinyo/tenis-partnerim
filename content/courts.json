@@ -329,5 +329,152 @@
       "https://spor.istanbul/wp-content/uploads/2020/06/mujdat-gursu-2.jpg"
     ],
     "comments": ["Tenis oynamak için Harika bir yer tavsiye ediyorum."]
+  },
+  {
+    "name": "Ankara Tennis Club",
+    "district": "Altındağ",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "",
+    "slug": "ankara-tennis-club",
+    "phone": "(0312) 311 56 58",
+    "cover": "https://i.hizliresim.com/qggimmu.png",
+    "adress": "https://goo.gl/maps/6bKDEqAhvvfJ9GiQ6",
+    "images": ["https://i.hizliresim.com/c22rgnc.png", "", ""],
+    "comments": [
+      "Ankara'da tenis severler için eğlenmek için en muhteşem yer ",
+      "Ankara'da gerçek bir tenis kulübünün mağazalarının tam bedenleri için. ",
+      "Toprak ve hard court bulabileceğiniz ,açık havanın keyfini sürebileceğiniz ve tenisin kalbi olan muhteşem canım kulüp :)"
+    ]
+  },
+  {
+    "name": "Sports International",
+    "district": "Çankaya",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "",
+    "slug": "sports-international",
+    "phone": "444 7 535",
+    "cover": "https://i.hizliresim.com/bmoefuv.jpg",
+    "adress": "https://goo.gl/maps/7cRFUAcX7XDgScbQA",
+    "images": [
+      "https://fastly.4sqi.net/img/general/width960/48192463_F7YZlm6EPBIvS7C8k0QKMiMNLrY6aRAyixcjZjpIhS8.jpg",
+      "https://fastly.4sqi.net/img/general/width960/159916610_Qk6hmDVwdZKz71-LwBGB2qVYKabCKcH5ZL-4-2uK06o.jpg,"
+    ],
+    "comments": [
+      "tenis kortlarıyla meşhur ancak eski bir spor merkezi",
+      "Çok güzel. Bir sürü tenis kortu var"
+    ]
+  },
+  {
+    "name": "TOPSPIN TENNIS ACADEMY",
+    "district": "Çankaya",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "",
+    "slug": "topspin-tennis-academy",
+    "phone": "+903129093333",
+    "cover": "https://i.hizliresim.com/bmoefuv.jpg",
+    "adress": "https://goo.gl/maps/grjRiPuVN4ZCqmH66",
+    "images": [
+      "https://www.tta.com.tr/wp-content/uploads/2020/06/WhatsApp-Image-2019-12-23-at-10.05.46-1-1024x682.jpeg",
+      "",
+      ""
+    ],
+    "comments": [
+      "Çok güzel kortlar.  Güzel manzara..",
+      "Çok iyi tenis öğretiyor",
+      "Tenis oynarken keyif alacağınız bir yer tavsiye ediyorum."
+    ]
+  },
+  {
+    "name": "Tennis Clinic",
+    "district": "Yenimahalle",
+    "city": "Ankara",
+    "citySlug": "ankara",
+    "price": "",
+    "slug": "tennis-clinic",
+    "phone": "(312) 242 00 05",
+    "cover": "https://cdn.endavet.com/endavet/spormerkezleri/13398/e0da07b6-2bf1-4a63-ba7b-54eec9948db9.jpg",
+    "adress": "https://goo.gl/maps/8yBW94UusW5h1zDG7",
+    "images": [
+      "https://i.hizliresim.com/j96p3gg.",
+      "https://www.sportsandmerits.com/upload/salon/tennis-clinic-performance-umitkoy-720x540.jpg",
+      ""
+    ],
+    "comments": [
+      "Kortların tavanı biraz basık ama zemin ve fiyat iyi bence birde yeri merkezi bir nokta.",
+      "Zemin ve Kort kalitesi iyi  tenis oynamak için yeterli seviyede tavsiye edilir."
+    ]
+  },
+  {
+    "name": "Karabağlar Belediyesi Basın Sitesi Tenis Kortu",
+    "district": "Karabağlar",
+    "city": "İzmir",
+    "citySlug": "izmir",
+    "price": "",
+    "slug": "karabaglar-belediyesi-basin-sitesi-tenis-kortu",
+    "phone": "414 79 01",
+    "cover": "https://i.hizliresim.com/3gfe4jh.",
+    "adress": "https://goo.gl/maps/tjWqd2kicaKbieAC8",
+    "images": ["https://i.hizliresim.com/bhtopvs.", "", ""],
+    "comments": ["Belediyeye ait gayet güzel tenis kortu", "", ""]
+  },
+  {
+    "name": "Kültürpark Tenis Klubü",
+    "district": "Konak",
+    "city": "İzmir",
+    "citySlug": "izmir",
+    "price": "",
+    "slug": "kulturpark-tenis-klubu",
+    "phone": "+90 530 370 30 25",
+    "cover": "http://www.kptk.org/content/img/kort3.jpg",
+    "adress": "https://goo.gl/maps/qMfcw9LDmuBi3dD38",
+    "images": [
+      "http://www.kptk.org/content/img/merkezkort.jpg",
+      "http://www.kptk.org/content/img/korttoprak.jpg",
+      "http://www.kptk.org/content/img/kapalikort2.jpg"
+    ],
+    "comments": [
+      "Tenis oynamak ve izlemek için güzel bir ortam ",
+      "Agaclar icinde tenis oynayabileceginiz nezih bir mekan",
+      "Güzel bir kulüp, kort sayısı az"
+    ]
+  },
+  {
+    "name": "Kaya Tenis Kulübü",
+    "district": "Narlıdere",
+    "city": "İzmir",
+    "citySlug": "izmir",
+    "price": "",
+    "slug": "kaya-tenis-kulubu",
+    "phone": "0532 582 77 25",
+    "cover": "i.hizliresim.com/pmfmwvy.png",
+    "adress": "https://goo.gl/maps/DuBZpq3uH3xPRsg96",
+    "images": [
+      "https://www.kayahotels.com/Assets/Uploads/e049470a-59a5-481b-adfc-1cd3c40fb9dd.jpg"
+    ],
+    "comments": [
+      "çam ağaçların içinde tenis oynamanın keyfini gercekten burda cıkarabilirisiniz",
+      "Tüm tenis severleri davet ediyorum.",
+      "Şehir içinde, doğal bir ortam... Tenis için güzel bir ortam."
+    ]
+  },
+  {
+    "name": "Bostanlı tenis kortu",
+    "district": "Karşıyaka",
+    "city": "İzmir",
+    "citySlug": "izmir",
+    "price": "",
+    "slug": "bostanli-tenis-kortu",
+    "phone": "+905324867208",
+    "cover": "https://i.hizliresim.com/l2yh063.",
+    "adress": "https://goo.gl/maps/3r8ivW62hzJFkSQV7",
+    "images": ["https://i.hizliresim.com/trbdnii.", "", ""],
+    "comments": [
+      "Bu manzarada tenis oynamak istemezmisiniz kortlar gerçekten çok güzel manzaraya diyecek yok",
+      "bir tenis meraklısı olarak burada oynamayı cok seviyorum!",
+      "Gerek Işıklandırması gerek sahile yakınlığı gerek kort sayısı olaraktan İzmir'in en guzelleri arasına girer"
+    ]
   }
 ]
