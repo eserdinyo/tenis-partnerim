@@ -1,5 +1,33 @@
 [
   {
+    "name": "Burak Paker ",
+    "age": 29,
+    "district": "Pendik",
+    "city": "İstanbul ",
+    "itn": 8,
+    "slug": "burak.paker",
+    "instagram": "Burak.paker",
+    "telegram": "",
+    "howManyYears": 7,
+    "image": "https://i.hizliresim.com/7o8oh9l.png",
+    "description": "İstanbulda tenis oynayan arkadaşlarla oynamak.",
+    "description_en": "Playing with friends playing tennis in Istanbul"
+  },
+  {
+    "name": "Mert Çalışkanyürek",
+    "age": 28,
+    "district": "Muratpaşa",
+    "city": "Antalya",
+    "itn": 10,
+    "slug": "m.caliskanyurek",
+    "instagram": "m.caliskanyurek",
+    "telegram": "m.caliskanyurek",
+    "howManyYears": 0,
+    "image": "https://i.hizliresim.com/5ljcwf3.png",
+    "description": "Buraya yeni taşımdım. Beraber antrenman yapıp kendimi geliştirebileceğim, eğlenceli vakit geçirebileceğim bir tenis arkadaşı arıyorum.",
+    "description_en": "I just moved here. I am looking for a tennis friend with whom I can train, improve myself and have fun."
+  },
+  {
     "name": "Fatoş",
     "age": 33,
     "district": "Muratpaşa-Kepez",
