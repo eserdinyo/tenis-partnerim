@@ -39,7 +39,11 @@
         </template>
       </p>
       <div class="justify-center card-actions mt-auto">
-        <nuxt-link :to="`/player/${player.slug}`" class="btn btn-outline"
+        <nuxt-link
+          :to="
+            localePath({ name: 'player-slug', params: { slug: player.slug } })
+          "
+          class="btn btn-outline"
           >{{ $t('MORE') }}...</nuxt-link
         >
       </div>
