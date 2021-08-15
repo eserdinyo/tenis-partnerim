@@ -1,5 +1,19 @@
 [
   {
+    "name": "Mehmet Beren",
+    "age": 38,
+    "district": "Küçükçekmece",
+    "city": "İstanbul",
+    "itn": 10,
+    "slug": "mberen",
+    "instagram": "Mberenn",
+    "telegram": "Mberen",
+    "howManyYears": 1,
+    "image": "https://i.hizliresim.com/91y0p4z.png",
+    "description": "Kendimi geliştirmek, ralli yapmak için tenis partneri arıyorum.",
+    "description_en": "I am looking for a tennis partner to improve myself and rally."
+  },
+  {
     "name": "Burak Paker ",
     "age": 29,
     "district": "Pendik",
@@ -10,8 +24,8 @@
     "telegram": "",
     "howManyYears": 7,
     "image": "https://i.hizliresim.com/7o8oh9l.png",
-    "description": "İstanbulda tenis oynayan arkadaşlarla oynamak.",
-    "description_en": "Playing with friends playing tennis in Istanbul"
+    "description": "İstanbulda tenis oynayan arkadaşlarla oynamak için tenis partneri arıyorum.",
+    "description_en": "I am looking for a tennis partner to play with my friends playing tennis in Istanbul."
   },
   {
     "name": "Mert Çalışkanyürek",
