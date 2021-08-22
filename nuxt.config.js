@@ -34,7 +34,11 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [{ src: '~/plugins/vue-splide', ssr: false }, '~/plugins/mixins.js'],
+  plugins: [
+    { src: '~/plugins/vue-splide', ssr: false },
+    '~/plugins/mixins.js',
+    '~/plugins/graphcms.js',
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
